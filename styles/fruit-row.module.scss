@@ -1,0 +1,15 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+
+.nameContainer {
+  min-width: 100px;
+}
+
+.inSeasonContainer {
+  min-width: 105px;
+  margin-right: 15px;
+}
